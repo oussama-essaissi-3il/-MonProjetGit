@@ -1,1 +1,5 @@
+ HEAD
 ligne branche feature-a
+
+ma ligne feature-b
+feature-b
